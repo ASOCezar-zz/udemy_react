@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Posts /> should match with snapshot 1`] = `
+<div
+  class="sc-gtsrHT Yrjky posts"
+>
+  <div
+    class="sc-bdnxRM bkXcNm post"
+  >
+    <img
+      alt="title 1"
+      src="img/img1"
+    />
+    <div
+      class="post-content"
+    >
+      <h2>
+        title 1
+         
+        1
+      </h2>
+      <hr />
+      <span>
+        body 1
+      </span>
+    </div>
+  </div>
+  <div
+    class="sc-bdnxRM bkXcNm post"
+  >
+    <img
+      alt="title 2"
+      src="img/img2"
+    />
+    <div
+      class="post-content"
+    >
+      <h2>
+        title 2
+         
+        2
+      </h2>
+      <hr />
+      <span>
+        body 2
+      </span>
+    </div>
+  </div>
+  <div
+    class="sc-bdnxRM bkXcNm post"
+  >
+    <img
+      alt="title 3"
+      src="img/img3"
+    />
+    <div
+      class="post-content"
+    >
+      <h2>
+        title 3
+         
+        3
+      </h2>
+      <hr />
+      <span>
+        body 3
+      </span>
+    </div>
+  </div>
+</div>
+`;
