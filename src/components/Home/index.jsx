@@ -11,7 +11,7 @@ const Home = () => {
   const [posts, setPosts] = useState([]);
   const [allPosts, setAllPosts] = useState([]);
   const [page, setPage] = useState(0);
-  const [postsPerPage] = useState(10);
+  const [postsPerPage] = useState(2);
   const [searchValue, setSearchValue] = useState('');
 
   const handleLoadPosts = useCallback(async (page, postsPerPage) => {
@@ -56,7 +56,7 @@ const Home = () => {
       {filteredPosts.length > 0 && <Posts posts={filteredPosts} />}
       {filteredPosts.length === 0 && <p>Não existem posts </p>}
       <div className="button-container">
-        {!searchValue && <ButtonLoad text="Load more posts" onClick={loadMorePosts} disabled={noMorePosts} />}
+        {!searchValue && <ButtonLoad text="Ler mais posts" onClick={loadMorePosts} disabled={noMorePosts} />}
       </div>
     </MainContent>
   );

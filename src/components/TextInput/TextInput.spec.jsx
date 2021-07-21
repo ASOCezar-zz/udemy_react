@@ -8,7 +8,7 @@ describe('<TextInput />', () => {
 
     render(<TextInput handleChange={fn} searchValue={'teste'} />);
 
-    const input = screen.getByPlaceholderText(/type your search/i);
+    const input = screen.getByPlaceholderText(/digite sua pesquisa/i);
 
     expect(input).toBeInTheDocument();
 
@@ -20,7 +20,7 @@ describe('<TextInput />', () => {
 
     render(<TextInput handleChange={fn} searchValue="valor qualquer" />);
 
-    const input = screen.getByPlaceholderText(/type your search/i);
+    const input = screen.getByPlaceholderText(/digite sua pesquisa/i);
 
     const value = 'o valor';
 

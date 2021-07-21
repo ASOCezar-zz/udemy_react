@@ -2,8 +2,8 @@
 
 exports[`<TextInput /> should match with snapshot 1`] = `
 <input
-  class="sc-bdnxRM gLqrLJ text-input"
-  placeholder="Type your search"
+  class="sc-bdnxRM etxjo text-input"
+  placeholder="Digite sua pesquisa"
   type="search"
   value="teste"
 />
