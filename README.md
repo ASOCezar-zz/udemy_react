@@ -4,7 +4,7 @@
 ## Projeto React desenvolvido durante o curso Udemy: 'Curso de React.Js + Next.Js completo do básico ao avançado'
 
 ## Nesse projeto foram utilizados:
-Html, CSS, JavaScript, React, NextJs, Styled-Components, Mock Service Worker, Jest
+Html, JavaScript, React, NextJs, Styled-Components, Mock Service Worker, Jest
 
 ## Screenshots
 
