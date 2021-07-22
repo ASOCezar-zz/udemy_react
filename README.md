@@ -8,8 +8,6 @@ Html, CSS, JavaScript, React, NextJs, Styled-Components, Mock Service Worker, Je
 
 ## Screenshots
 
-![Screenshot](https://github.com/ASOCezar/udemy_react/blob/master/public/udemy-project1.JPG)
-
 ![Gif](https://github.com/ASOCezar/udemy_react/blob/master/public/Udemy%20Projeto%201.gif)
 
 ### O projeto pode ser acessado através do link: http://react-project-udemy.vercel.app/
