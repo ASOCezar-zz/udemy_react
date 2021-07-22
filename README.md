@@ -6,9 +6,6 @@
 ## Nesse projeto foram utilizados:
 Html, CSS, JavaScript, React, NextJs, Styled-Components, Mock Service Worker, Jest
 
-##Etapas:
-- Construção da lógica em 
-
 ## Screenshots
 
 ![Screenshot](https://github.com/ASOCezar/udemy_react/blob/master/public/udemy-project1.JPG)
